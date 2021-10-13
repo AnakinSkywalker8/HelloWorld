@@ -1,0 +1,7 @@
+C:\Users\Student25\Desktop\Zubkov\bin\Debug\Zubkov.exe.config
+C:\Users\Student25\Desktop\Zubkov\bin\Debug\Zubkov.exe
+C:\Users\Student25\Desktop\Zubkov\bin\Debug\Zubkov.pdb
+C:\Users\Student25\Desktop\Zubkov\obj\Debug\Zubkov.csprojAssemblyReference.cache
+C:\Users\Student25\Desktop\Zubkov\obj\Debug\Zubkov.csproj.CoreCompileInputs.cache
+C:\Users\Student25\Desktop\Zubkov\obj\Debug\Zubkov.exe
+C:\Users\Student25\Desktop\Zubkov\obj\Debug\Zubkov.pdb
